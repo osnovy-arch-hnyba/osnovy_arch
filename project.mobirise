@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "osnovy-arch-hnyba",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1796,7 +1796,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1333372506-1023x728.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1810,23 +1810,6 @@
                 "contentAlign": "center",
                 "text": "ОЗНАЙОМЧА ПРАКТИКА (1 КУРС) ТА ОБМІРНА ПРАКТИКА (2 КУРС) -<br> ПРОВОДЯТЬСЯ КАФЕДРОЮ ОСНОВ АРХІТЕКТУРИ&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/111-620x417.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://mobirise.com\">ДЛЯ MAC</a>"
               }
             ]
           }
